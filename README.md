@@ -12,7 +12,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/d66d835e-7f03-447d-92e9-ec3c2ca0621b.svg" alt="bash" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/d66d835e-7f03-447d-92e9-ec3c2ca0621b.svg" alt="bash" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+<img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/409a993a-e62c-4613-b7fc-26cc8972195b.svg" alt="arduino" width="60" height="40"/> </a> </p>
 
 
 
@@ -24,6 +25,7 @@ I'm dedicated to creating seamless and efficient embedded systems. Here's a glim
 - **IoT Solutions:** Building smart and connected devices for the Internet of Things.
 - **Algorithm Design:** Developing algorithms for real-time data processing and decision-making.
 - **Linux Device Driver Development:** Writing device drivers for Linux-based systems.
+- **Yocto Project:** Creating custom Linux distributions tailored to embedded systems.
 
 
 
