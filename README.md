@@ -20,9 +20,8 @@ I'm dedicated to creating seamless and efficient embedded systems. Here's a glim
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/irshan127?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA7T%2FHRKQT2ibYrYeyLHasQ%3D%3D))
 - [Twitter](https://twitter.com/yourhandle)
-- [Portfolio Website](https://www.yourportfolio.com)
 
 ## 🌱 Always Learning
 
