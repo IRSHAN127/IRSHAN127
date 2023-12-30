@@ -1,6 +1,6 @@
-# 👋 Hello World! I'm Irshan Nazir
+# Hi 👋 I'm  Irshan Nazir
 
-Passionate Embedded Software Engineer from India 🚀. Transforming ideas into intelligent solutions, one line of code at a time.
+Building the Future of Embedded Technologies | Code Poet
 
 ## 💻 Technologies & Tools
 
