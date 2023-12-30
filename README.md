@@ -16,23 +16,20 @@
 <img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/409a993a-e62c-4613-b7fc-26cc8972195b.svg" alt="arduino" width="60" height="40"/> </a> </p>
 
 
+<h2>🚀 What I Do</h2>
 
-## 🚀 What I Do
+<p>I'm dedicated to creating seamless and efficient embedded systems. Here's a glimpse of my expertise:</p>
 
-I'm dedicated to creating seamless and efficient embedded systems. Here's a glimpse of my expertise:
+<ul>
+  <li><strong>Embedded Software Development:</strong> Crafting robust firmware for diverse embedded platforms.</li>
+  <li><strong>IoT Solutions:</strong> Building smart and connected devices for the Internet of Things.</li>
+  <li><strong>Algorithm Design:</strong> Developing algorithms for real-time data processing and decision-making.</li>
+  <li><strong>Linux Device Driver Development:</strong> Writing device drivers for Linux-based systems.</li>
+  <li><strong>Yocto Project:</strong> Creating custom Linux distributions tailored to embedded systems.</li>
+</ul>
 
-- **Embedded Software Development:** Crafting robust firmware for diverse embedded platforms.
-- **IoT Solutions:** Building smart and connected devices for the Internet of Things.
-- **Algorithm Design:** Developing algorithms for real-time data processing and decision-making.
-- **Linux Device Driver Development:** Writing device drivers for Linux-based systems.
-- **Yocto Project:** Creating custom Linux distributions tailored to embedded systems.
+<h2>🎯 Future Goals</h2>
 
+<p>Continuing to explore the intersections of hardware and software, my goal is to contribute to cutting-edge technologies that make a positive impact.</p>
 
-
-
-
-## 🎯 Future Goals
-
-Continuing to explore the intersections of hardware and software, my goal is to contribute to cutting-edge technologies that make a positive impact.
-
-Feel free to explore my repositories, and let's collaborate on something amazing! 🤝
+<p>Feel free to explore my repositories, and let's collaborate on something amazing! 🤝</p>
