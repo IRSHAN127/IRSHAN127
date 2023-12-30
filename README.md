@@ -18,3 +18,18 @@
 
 
 
+
+
+## 🌱 Always Learning
+
+I thrive on continuous learning and staying updated with the latest technologies in the embedded world. Let's learn and grow together!
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs)
+
+## 🎯 Future Goals
+
+Continuing to explore the intersections of hardware and software, my goal is to contribute to cutting-edge technologies that make a positive impact.
+
+Feel free to explore my repositories, and let's collaborate on something amazing! 🤝
