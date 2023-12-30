@@ -2,13 +2,11 @@
 <h3 align="center">Building the Future of Embedded Technologies | Code Poet</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irshan127&label=Profile%20views&color=0e75b6&style=flat" alt="irshan127" /> </p>
-
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/irshan_127" target="blank"><img align="center" src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/a9f6de68-7b4f-43e4-a94e-a80b18278706" alt="https://twitter.com/irshan_127" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/irshan_127" target="blank"><img align="center" src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/fa574e52-54ec-4e01-89d2-b71319a8acf2.svg" alt="https://twitter.com/irshan_127" height="35" width="45" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/irshan127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irshan127/" height="30" width="40" /></a>
 </p>
 
@@ -17,16 +15,18 @@
 
 
 
+## 🚀 What I Do
+
+I'm dedicated to creating seamless and efficient embedded systems. Here's a glimpse of my expertise:
+
+- **Embedded Software Development:** Crafting robust firmware for diverse embedded platforms.
+- **IoT Solutions:** Building smart and connected devices for the Internet of Things.
+- **Algorithm Design:** Developing algorithms for real-time data processing and decision-making.
+- **Linux Device Driver Development:** Writing device drivers for Linux-based systems.
 
 
 
-## 🌱 Always Learning
 
-I thrive on continuous learning and staying updated with the latest technologies in the embedded world. Let's learn and grow together!
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs)
 
 ## 🎯 Future Goals
 
