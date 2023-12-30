@@ -10,16 +10,11 @@
 <a href="https://www.linkedin.com/in/irshan127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irshan127/" height="30" width="40" /></a> <a href="https://twitter.com/Irshan_127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/irshan_127" height="35" width="40" />
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/d66d835e-7f03-447d-92e9-ec3c2ca0621b.svg" alt="bash" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/409a993a-e62c-4613-b7fc-26cc8972195b.svg" alt="STMCubeIDE" width="60" height="40"/> </a> 
-<img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/dea2d1a8-9f05-401b-af48-23990f2640c7.svg" alt="KEIL" width="40" height="40"/> </a> 
-<img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/ae479edb-ed96-43ea-9cd4-3bc70880bbe3.svg" alt="Notion" width="40" height="40"/> </a> 
-<img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/28750d11-9945-4acf-99db-37e8102266c6.svg" alt="obsidian" width="40" height="40"/> </a> </p>
-
-
-
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="blank"> <img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/d66d835e-7f03-447d-92e9-ec3c2ca0621b.svg" alt="bash" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://git-scm.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  <a href="https://www.linux.org/" target="blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.arduino.cc/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="blank"> <img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/409a993a-e62c-4613-b7fc-26cc8972195b.svg" alt="STMCubeIDE" width="60" height="40"/></a> <a href="https://www.keil.com/" target="blank"> <img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/dea2d1a8-9f05-401b-af48-23990f2640c7.svg" alt="KEIL" width="40" height="40"/></a> <a href="https://www.notion.so/" target="blank"> <img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/ae479edb-ed96-43ea-9cd4-3bc70880bbe3.svg" alt="Notion" width="40" height="40"/></a> <a href="https://obsidian.md/" target="blank"> <img src="https://github.com/IRSHAN127/IRSHAN127/assets/93464682/28750d11-9945-4acf-99db-37e8102266c6.svg" alt="obsidian" width="40" height="40"/></a> </p>
 
 
 <h2>🚀 What I Do</h2>
