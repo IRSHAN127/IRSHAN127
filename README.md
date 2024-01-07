@@ -1,4 +1,4 @@
-![logo](https://github.com/IRSHAN127/IRSHAN127/blob/main/Blue%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner.png)
+![logo](https://github.com/IRSHAN127/DEMO/blob/main/Blue%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Irshan Nazir</h1>
 <h3 align="center">Building the Future of Embedded Technologies | Code Poet</h3>
 
