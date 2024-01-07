@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" height="240" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irshan127&label=Profile%20views&color=0e75b6&style=flat" alt="irshan127" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/irshan127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irshan127/" height="30" width="40" /></a> <a href="https://twitter.com/Irshan_127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/irshan_127" height="35" width="40" />
@@ -24,6 +24,8 @@
 <ul>
   <li><strong>Embedded Software Development:</strong> Crafting robust firmware for diverse embedded platforms.</li>
   <li><strong>IoT Solutions:</strong> Building smart and connected devices for the Internet of Things.</li>
+
+
   <li><strong>Algorithm Design:</strong> Developing algorithms for real-time data processing and decision-making.</li>
   <li><strong>Linux Device Driver Development:</strong> Writing device drivers for Linux-based systems.</li>
   <li><strong>Yocto Project:</strong> Creating custom Linux distributions tailored to embedded systems.</li>
@@ -34,3 +36,4 @@
 <p>Continuing to explore the intersections of hardware and software, my goal is to contribute to cutting-edge technologies that make a positive impact.</p>
 
 <p>Feel free to explore my repositories, and let's collaborate on something amazing! 🤝</p>
+
