@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshan127&label=Profile%20views&color=0e75b6&style=flat" alt="irshan127" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/irshan127/" target="_blank" rel="noopener"><img align="center" src="linkedin.svg" alt="https://www.linkedin.com/in/irshan127/" height="30" width="40" /></a> <a href="https://twitter.com/Irshan_127" target="blank"><img align="center" src="twitter.svg" alt="https://twitter.com/irshan_127" height="35" width="40" />
+<a href="https://www.linkedin.com/in/irshan127/" target="_blank" rel="noopener" ><img align="center" src="linkedin.svg" alt="https://www.linkedin.com/in/irshan127/" height="30" width="40" /></a> <a href="https://twitter.com/Irshan_127" target="blank"><img align="center" src="twitter.svg" alt="https://twitter.com/irshan_127" height="35" width="40" />
 </p>
 
 
