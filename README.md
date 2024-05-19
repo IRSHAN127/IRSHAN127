@@ -12,7 +12,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="blank"> <img src="Bash.svg" alt="bash" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"> <img src="c.svg" alt="c" width="40" height="40"/></a> 
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="Bash.svg" alt="bash" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"> <img src="c.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank"> <img src="c++.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://git-scm.com/" target="blank"> <img src="git.svg" alt="git" width="40" height="40"/></a>  <a href="https://www.linux.org/" target="blank"> <img  src="linux.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.arduino.cc/" target="blank"> <img src="arduino.svg" alt="arduino" width="40" height="40"/></a> 
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="blank"> <img src="stm32.png" alt="STMCubeIDE" width="60" height="40"/></a> <a href="https://www.segger.com/products/development-tools/systemview/" target="blank"> <img src="segger.png" alt="SEGGER" width="60" height="38"/></a> </a> <a href="https://www.keil.com/" target="blank"> <img src="uvision5.jpeg" alt="KEIL" width="40" height="40"/></a> <a href="https://www.notion.so/" target="blank"> <img src="Notion.png" alt="Notion" width="40" height="40"/></a> <a href="https://obsidian.md/" target="blank"> <img src="Obsidian.png" alt="obsidian" width="40" height="40"/></a> </p> 
 
