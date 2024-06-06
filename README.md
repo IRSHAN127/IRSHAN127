@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Irshan Nazir</h1>
 <h3 align="center">Building the Future of Embedded Technologies | Code Poet</h3>
 
-<img align="right" alt="coding" height="240" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" height="280" width="450" src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshan127&label=Profile%20views&color=0e75b6&style=flat" alt="irshan127" /> </p>
 <h3 align="left">Connect with me:</h3>
