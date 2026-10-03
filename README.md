@@ -1,7 +1,7 @@
 ![logo](https://github.com/IRSHAN127/IRSHAN127/blob/main/Blue%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Irshan Nazir</h1>
-<h3 align="center">Embedded Audio Systems Engineer @ Qualcomm</h3>
+<h3 align="center">Audio Systems Engineer @ Qualcomm</h3>
 
 <img align="right" alt="coding" height="186" width="450" src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif">
 
@@ -62,6 +62,6 @@
 
 <h2>🎯 Future Goals</h2>
 
-<p>Continuing to push the boundaries of embedded audio — from optimizing Bluetooth audio codecs to building smarter, power-efficient audio pipelines. My goal is to contribute to next-gen audio experiences.</p>
+<p>Continuing to push the boundaries of audio — from optimizing Bluetooth audio codecs to building smarter, power-efficient audio pipelines. My goal is to contribute to next-gen audio experiences.</p>
 
 <p>Feel free to explore my repositories, and let's collaborate on something amazing! 🤝</p>
