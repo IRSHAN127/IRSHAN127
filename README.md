@@ -11,30 +11,54 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="Bash.svg" alt="bash" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"> <img src="c.svg" alt="c" width="40" height="40"/></a> 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank"> <img src="c++.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://git-scm.com/" target="blank"> <img src="git.svg" alt="git" width="40" height="40"/></a>  <a href="https://www.linux.org/" target="blank"> <img  src="linux.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.arduino.cc/" target="blank"> <img src="arduino.svg" alt="arduino" width="40" height="40"/></a> 
-<a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="blank"> <img src="stm32.png" alt="STMCubeIDE" width="60" height="40"/></a> <a href="https://www.segger.com/products/development-tools/systemview/" target="blank"> <img src="segger.png" alt="SEGGER" width="60" height="38"/></a> </a> <a href="https://www.keil.com/" target="blank"> <img src="uvision5.jpeg" alt="KEIL" width="40" height="40"/></a> <a href="https://www.notion.so/" target="blank"> <img src="Notion.png" alt="Notion" width="40" height="40"/></a> <a href="https://obsidian.md/" target="blank"> <img src="Obsidian.png" alt="obsidian" width="40" height="40"/></a> </p> 
-
-
-
 <h2>🚀 What I Do</h2>
 
-<p>I'm dedicated to creating seamless and efficient embedded systems. Here's a glimpse of my expertise:</p>
+<p>I specialize in embedded audio systems, working at the intersection of hardware and software to deliver high-performance, low-latency audio experiences.</p>
 
 <ul>
-  <li><strong>Embedded Software Development:</strong> Crafting robust firmware for diverse embedded platforms.</li>
-  <li><strong>IoT Solutions:</strong> Building smart and connected devices for the Internet of Things.</li>
-
-
-  <li><strong>Algorithm Design:</strong> Developing algorithms for real-time data processing and decision-making.</li>
-  <li><strong>Linux Device Driver Development:</strong> Writing device drivers for Linux-based systems.</li>
-  <li><strong>Yocto Project:</strong> Creating custom Linux distributions tailored to embedded systems.</li>
+  <li><strong>Audio HAL Development:</strong> Building and maintaining Android Audio HAL, AudioFlinger, and Audio Policy Manager for Qualcomm platforms.</li>
+  <li><strong>Bluetooth Audio:</strong> Developing and optimizing HFP, SCO, BLE-LC3, A2DP, and aptX Adaptive audio stacks.</li>
+  <li><strong>Embedded Audio Systems:</strong> Implementing low-latency, real-time audio processing with power optimization on Linux, Android & RTOS.</li>
+  <li><strong>Linux & Device Drivers:</strong> Writing and debugging device drivers, IPC mechanisms, and multi-threaded audio pipelines.</li>
+  <li><strong>Debugging & Validation:</strong> Leveraging GDB, Logcat, and ADB for deep system-level audio debugging and validation.</li>
 </ul>
+
+---
+
+<h2>🛠️ Skills</h2>
+
+| Category | Technologies |
+|---|---|
+| **Languages** | C · C++ · Embedded C |
+| **Audio Systems** | ALSA · Android Audio HAL · AudioFlinger · Audio Policy Manager · Low-latency & Real-time Audio · Power Optimization |
+| **Bluetooth Audio** | HFP · SCO · BLE-LC3 · A2DP · aptX Adaptive |
+| **OS & Platforms** | Linux · Android · RTOS |
+| **Tools & Debug** | GDB · Logcat · ADB · Git |
+| **Systems** | Multi-threading · IPC · Device Drivers |
+| **Soft Skills** | Team Collaboration · Result-driven |
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="Bash.svg" alt="bash" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img src="c.svg" alt="c" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank"><img src="c++.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="blank"><img src="git.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="blank"><img src="linux.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="blank"><img src="arduino.svg" alt="arduino" width="40" height="40"/></a>
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="blank"><img src="stm32.png" alt="STMCubeIDE" width="60" height="40"/></a>
+<a href="https://www.segger.com/products/development-tools/systemview/" target="blank"><img src="segger.png" alt="SEGGER" width="60" height="38"/></a>
+<a href="https://www.keil.com/" target="blank"><img src="uvision5.jpeg" alt="KEIL" width="40" height="40"/></a>
+<a href="https://www.notion.so/" target="blank"><img src="Notion.png" alt="Notion" width="40" height="40"/></a>
+<a href="https://obsidian.md/" target="blank"><img src="Obsidian.png" alt="obsidian" width="40" height="40"/></a>
+</p>
+
+---
 
 <h2>🎯 Future Goals</h2>
 
-<p>Continuing to explore the intersections of hardware and software, my goal is to contribute to cutting-edge technologies that make a positive impact.</p>
+<p>Continuing to push the boundaries of embedded audio — from optimizing Bluetooth audio codecs to building smarter, power-efficient audio pipelines. My goal is to contribute to next-gen audio experiences on Qualcomm platforms and beyond.</p>
 
 <p>Feel free to explore my repositories, and let's collaborate on something amazing! 🤝</p>
 
