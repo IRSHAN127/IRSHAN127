@@ -62,6 +62,6 @@
 
 <h2>🎯 Future Goals</h2>
 
-<p>Continuing to push the boundaries of embedded audio — from optimizing Bluetooth audio codecs to building smarter, power-efficient audio pipelines. My goal is to contribute to next-gen audio experiences on Qualcomm platforms and beyond.</p>
+<p>Continuing to push the boundaries of embedded audio — from optimizing Bluetooth audio codecs to building smarter, power-efficient audio pipelines. My goal is to contribute to next-gen audio experiences.</p>
 
 <p>Feel free to explore my repositories, and let's collaborate on something amazing! 🤝</p>
