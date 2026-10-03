@@ -5,10 +5,14 @@
 <img align="right" alt="coding" height="280" width="450" src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshan127&label=Profile%20views&color=0e75b6&style=flat" alt="irshan127" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/irshan127/" target="_blank"><img align="center" src="linkedin.svg" alt="https://www.linkedin.com/in/irshan127/" height="30" width="40"/></a> <a href="https://twitter.com/Irshan_127" target="blank"><img align="center" src="twitter.svg" alt="https://twitter.com/irshan_127" height="35" width="40" />
+<a href="https://www.linkedin.com/in/irshan127/" target="_blank"><img align="center" src="linkedin.svg" alt="LinkedIn" height="30" width="40"/></a>
+<a href="https://twitter.com/Irshan_127" target="blank"><img align="center" src="twitter.svg" alt="Twitter" height="35" width="40"/></a>
+<a href="https://github.com/IRSHAN127" target="blank"><img align="center" src="github.svg" alt="GitHub" height="35" width="40"/></a>
 </p>
+
 
 
 <h2>🚀 What I Do</h2>
@@ -61,4 +65,3 @@
 <p>Continuing to push the boundaries of embedded audio — from optimizing Bluetooth audio codecs to building smarter, power-efficient audio pipelines. My goal is to contribute to next-gen audio experiences on Qualcomm platforms and beyond.</p>
 
 <p>Feel free to explore my repositories, and let's collaborate on something amazing! 🤝</p>
-
