@@ -1,7 +1,7 @@
 ![logo](https://github.com/IRSHAN127/IRSHAN127/blob/main/Blue%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Irshan Nazir</h1>
-<h3 align="center">Embedded Audio Systems Engineer | Building the Future of Audio Technologies</h3>
+<h3 align="center">Embedded Audio Systems Engineer @ Qualcomm</h3>
 
 <img align="right" alt="coding" height="186" width="450" src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif">
 
